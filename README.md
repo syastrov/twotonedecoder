@@ -6,6 +6,8 @@ Calculates and displays the frequencies of the tones.
 
 Cross-platform, free and open-source alternative to commercial software such as [ComTekk Two-tone Decoder](http://comtekk.us/two-tone-decoder.htm).
 
+See also: [Wikipedia article on Two-tone sequential calling](http://en.wikipedia.org/wiki/Two-tone_sequential#Two-tone_sequential).
+
 How to run on Ubuntu:
 -----
 
