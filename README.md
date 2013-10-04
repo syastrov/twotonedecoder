@@ -1,8 +1,8 @@
 twotonedecoder
 =============
 
-Decodes two-tone codes used for alerts in radio communications.
-Calculates and displays the frequencies of the two sequential tones.
+Decodes the frequencies of two-tone codes used in fire dispatch pager systems..
+Calculates and displays the frequencies of the tones.
 
 Cross-platform, free and open-source alternative to commercial software such as [ComTekk Two-tone Decoder](http://comtekk.us/two-tone-decoder.htm).
 
